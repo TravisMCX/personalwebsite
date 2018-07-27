@@ -1,0 +1,24 @@
+.body{
+    background-color: gray;
+}
+
+
+.style {
+   background-image: url('https://images3.alphacoders.com/114/114497.jpg');
+   background-repeat: no-repeat;
+   width: auto; 
+   height: 1200px;
+}
+
+p {
+    font-size: 25px;
+line-height: 1.5cm
+
+}
+
+.page-content{
+    font-size: 25px;
+    line-height: 1.5cm
+    
+}
+
